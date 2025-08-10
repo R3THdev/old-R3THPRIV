@@ -1,9 +1,3 @@
-# R3TH PRIV by pethicial
+# old-R3TH PRIV by pethicial
 
-R3TH PRIV will now be a open source script, R3TH PRIV V2 may be coming sometime depending if the scripting community grows again.
-
-new discord: https://pethicial.com
-
-```
-loadstring(game:HttpGet('https://raw.githubusercontent.com/R3TH-PRIV/R3THPRIV/main/loader.lua'))()
-```
+archive of my old script from 2 years ago before i left
